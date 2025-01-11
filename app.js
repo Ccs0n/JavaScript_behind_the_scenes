@@ -1,8 +1,11 @@
+"use strict";
+
 // var name = 'Menelaos';
 let name = 'Menelaos';
+let hobbies;
 
 if (name === 'Menelaos') {
-    let hobbies = ['Mugai Ryu', 'running']
+    hobbies = ['Mugai Ryu', 'running']
     console.log(hobbies);
 }
 function greet() {
